@@ -13,7 +13,7 @@
 
 ### - I'm 18 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/MagiiK270/MagiiK270/blob/master/assets/2.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/MagiiK270/MagiiK270/blob/main/assets/2.gif">
 
 ### - Learning :
 - ✨ Data Science
@@ -40,15 +40,15 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/MagiiK270/MagiiK270/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/MagiiK270/MagiiK270/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/MagiiK270/MagiiK270/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/MagiiK270/MagiiK270/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+<img src="https://github.com/MagiiK270/MagiiK270/blob/main/assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/MagiiK270/MagiiK270/blob/main/assets/icons/java.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/MagiiK270/MagiiK270/blob/main/assets/icons/bash.png" alt="bash" width="100" hight="50">
+<img src="https://github.com/MagiiK270/MagiiK270/blob/main/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
 </br>
-<img src="https://github.com/MagiiK270/MagiiK270/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+<img src="https://github.com/MagiiK270/MagiiK270/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
 </br>
-<img src="https://github.com/MagiiK270/MagiiK270/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/MagiiK270/MagiiK270/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+<img src="https://github.com/MagiiK270/MagiiK270/blob/main/assets/icons/pc.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/MagiiK270/MagiiK270/blob/main/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
 </p>
 </br>
 </br>
@@ -62,25 +62,25 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/MagiiK270/MagiiK270/blob/master/assets/3.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/MagiiK270/MagiiK270/blob/main/assets/3.gif">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto:krausch.bryan@yahoo.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/MagiiK270/MagiiK270/blob/master/assets/icons/gmail.png" />
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/MagiiK270/MagiiK270/blob/main/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/MagiiK270/MagiiK270/blob/master/assets/icons/linkedin.png" />
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/MagiiK270/MagiiK270/blob/main/assets/icons/linkedin.png" />
 </br>
 </br>
 </br>
 </a>
 <a href="https://www.reddit.com/">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/MagiiK270/MagiiK270/blob/master/assets/icons/reddit.png" />
+  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/MagiiK270/MagiiK270/blob/main/assets/icons/reddit.png" />
 </a>
 <a href="https://steamcommunity.com/id/4989458845/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/MagiiK270/MagiiK270/blob/master/assets/icons/steam.png" />
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/MagiiK270/MagiiK270/blob/main/assets/icons/steam.png" />
 </a>
  </p>
  
