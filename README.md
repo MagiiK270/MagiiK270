@@ -7,7 +7,11 @@
 </br>
 </br>
 </br>
-
+<style>
+  img{
+  border: 3px solid black;
+ }
+</style>
 
 # About ME 💬 :
 
