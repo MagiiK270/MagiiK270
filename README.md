@@ -1,7 +1,7 @@
 # Hello 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/MagiiK270/MagiiK270/blob/master/assets/1.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/MagiiK270/MagiiK270/blob/main/assets/1.gif">
 </div>
 
 </br>
