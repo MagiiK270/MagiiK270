@@ -1,4 +1,4 @@
-# Hello 👋
+# Hello ! 👋
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/MagiiK270/MagiiK270/blob/main/assets/1.gif">
@@ -15,22 +15,21 @@
 
 # About ME 💬 :
 
-### - I'm 18 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - I'm 18 years  old student from France.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/MagiiK270/MagiiK270/blob/main/assets/2.gif">
 
 ### - Learning :
 - ✨ Data Science
-- ✨ Generative Adversarial Networks
-- ✨ Neural Style Transfer
-- ✨ C/C++
+- ✨ Web developpement
+- ✨ PHP
+- ✨ JS
 - ✨ Financial Markets
 
 ### - Hobbies : 
 - ✨ Gaming
 - ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ✨ Series
 
 </br>
 </br>
